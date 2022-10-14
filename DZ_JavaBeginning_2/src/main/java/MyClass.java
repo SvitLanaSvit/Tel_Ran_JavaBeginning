@@ -53,7 +53,6 @@ public class MyClass {
                     arrInt[i] = j;
                 }
             }
-
         }
 
         int res = 0;
