@@ -14,7 +14,7 @@ public class MyClass {
     }
 
     static void GetDifference(int hours, int minutes){
-        int difHours = 17 * 3600 - (hours * 3600 + minutes * 60); //sec
+        int difHours = 17 * 3600 - (hours * 3600 + minutes * 60); //sec Time
 
         double hoursD = (double)difHours/3600;
         double minutesD = (double)difHours/60;
